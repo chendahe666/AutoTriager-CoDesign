@@ -1,0 +1,13 @@
+.venv/
+vendor/
+data/
+runs/
+.env
+.env.*
+.streamlit/secrets.toml
+__pycache__/
+.pytest_cache/
+*.pyc
+test-results/
+playwright-report/
+pytest-cache-files-*/

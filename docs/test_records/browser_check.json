@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "run_id": "d6c075bd0a6d",
+  "model_calls": 6,
+  "checks": [
+    "real UI analysis",
+    "raw evidence rendered",
+    "review bound to run",
+    "locale retains result and feedback without new analysis",
+    "case switch hides stale output",
+    "JSON export"
+  ],
+  "human_review": "Automated test only; no user acceptance claimed."
+}

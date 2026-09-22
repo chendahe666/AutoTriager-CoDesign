@@ -1,3 +1,5 @@
+> 历史计划稿。当前实现和验证状态见 Implementation_Decisions.md 和 Validation_Report.md。
+
 # AutoTriager：Human–AI Co-Design 执行计划与审查
 
 状态：计划稿，尚未实施。依据：9 月 21 日作业原文、已有 AI Design 材料、用户确认的设计，以及本次只读检查的 GitHub 默认分支。

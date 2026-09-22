@@ -1,0 +1,123 @@
+[
+  {
+    "run_id": "03a6c514c08c",
+    "case_id": "bank-001",
+    "status": "api_error",
+    "calls": 3,
+    "elapsed_seconds": 49.16,
+    "total_seconds": 119.89,
+    "official_partial_score": 0.0,
+    "all_required_fields_correct": false,
+    "passed": [],
+    "failed": [
+      "high memory usage",
+      "Redis02"
+    ]
+  },
+  {
+    "run_id": "2ab481cbc0d5",
+    "case_id": "bank-001",
+    "status": "complete",
+    "calls": 6,
+    "elapsed_seconds": 54.02,
+    "total_seconds": 54.08,
+    "official_partial_score": 1.0,
+    "all_required_fields_correct": true,
+    "passed": [
+      "Redis02",
+      "high memory usage"
+    ],
+    "failed": []
+  },
+  {
+    "run_id": "319be82eec24",
+    "case_id": "bank-001",
+    "status": "complete",
+    "calls": 6,
+    "elapsed_seconds": 29.92,
+    "total_seconds": 84.75,
+    "official_partial_score": 1.0,
+    "all_required_fields_correct": true,
+    "passed": [
+      "Redis02",
+      "high memory usage"
+    ],
+    "failed": []
+  },
+  {
+    "run_id": "d6c075bd0a6d",
+    "case_id": "bank-001",
+    "status": "complete",
+    "calls": 6,
+    "elapsed_seconds": 61.05,
+    "total_seconds": 130.08,
+    "official_partial_score": 1.0,
+    "all_required_fields_correct": true,
+    "passed": [
+      "Redis02",
+      "high memory usage"
+    ],
+    "failed": []
+  },
+  {
+    "run_id": "e55946bb2a89",
+    "case_id": "bank-001",
+    "status": "complete",
+    "calls": 6,
+    "elapsed_seconds": 63.2,
+    "total_seconds": 63.26,
+    "official_partial_score": 1.0,
+    "all_required_fields_correct": true,
+    "passed": [
+      "Redis02",
+      "high memory usage"
+    ],
+    "failed": []
+  },
+  {
+    "run_id": "61d22bf8c6fa",
+    "case_id": "bank-004",
+    "status": "partial",
+    "calls": 6,
+    "elapsed_seconds": 25.48,
+    "total_seconds": 155.72,
+    "official_partial_score": 0.5,
+    "all_required_fields_correct": false,
+    "passed": [
+      "Tomcat04"
+    ],
+    "failed": [
+      "network latency"
+    ]
+  },
+  {
+    "run_id": "714bf4d89a85",
+    "case_id": "bank-004",
+    "status": "api_error",
+    "calls": 1,
+    "elapsed_seconds": 45.24,
+    "total_seconds": 159.64,
+    "official_partial_score": 0.0,
+    "all_required_fields_correct": false,
+    "passed": [],
+    "failed": [
+      "Tomcat04",
+      "network latency"
+    ]
+  },
+  {
+    "run_id": "980cfeb39ef8",
+    "case_id": "bank-004",
+    "status": "incomplete",
+    "calls": 6,
+    "elapsed_seconds": 17.58,
+    "total_seconds": 147.22,
+    "official_partial_score": 0.0,
+    "all_required_fields_correct": false,
+    "passed": [],
+    "failed": [
+      "Tomcat04",
+      "network latency"
+    ]
+  }
+]
